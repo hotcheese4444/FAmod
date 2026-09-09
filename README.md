@@ -120,6 +120,11 @@ To remove FAmod, simply delete `dsound.dll` and `famod_settings.json` from your 
 
 ---
 
+### 8. ♻️ Extended Reclaim Camera Distance
+* **What it does**: Extends the engine's maximum camera distance for reclaiming from `150` to `500`. This patch is always enabled and requires no UI mod or toggle.
+
+---
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 <details>
